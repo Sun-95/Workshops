@@ -10,7 +10,8 @@
 
 [Development of an Application for GPS Measurements Visualization](https://github.com/Sun-95/Development-of-an-Application-for-GPS-Measurements-Visualization)
 
-[Development of an Application for GPS Measurements Visualization](https://github.com/Sun-95/Development-of-an-Application-for-GPS-Measurements-Visualization)
+[LORAN Measurement Visualization App Development](https://github.com/Sun-95/LORAN-Measurement-Visualization-App-Development)
 
 [Kalman Filter Study](https://github.com/Sun-95/Kalman-Filter-Study)
 
+[Polygon Area Calculation](https://github.com/Sun-95/Polygon-Area-Calculation)
